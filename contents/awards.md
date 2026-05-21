@@ -1,3 +1,3 @@
-* example：Outstanding Graduate Award (CUMT), 2025.
+* Example：Outstanding Graduate Award (CUMT), 2025.
 
 
