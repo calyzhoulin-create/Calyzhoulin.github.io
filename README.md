@@ -3,7 +3,7 @@
 Welcome to the source code repository for my personal academic website!
 
 🌍 **Live Website:** [https://calyzhoulin.github.io](https://calyzhoulin.github.io)\
-**Contact Email:** [calyzhoulin@gmail.com](mailto:calyzhoulin@gmail.com)
+📫 **Contact Email:** [calyzhoulin@gmail.com](mailto:calyzhoulin@gmail.com)
 
 ## About Me
 I am a Master's student majoring in Electronic Information at the School of Physics, **Northeast Normal University**. 
@@ -13,19 +13,23 @@ My research interests primarily include:
 - Computer Vision
 
 <details>
-<summary><strong>Project </strong></summary>
-**PRO:Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference** ([link](https://github.com/CalyZhouLin/MyCode.git))\
-</details>
-
-
-<details>
 <summary><strong>Under Review / Working Papers </strong></summary>
-**Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference** ([link](paper-link))\
+Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference (<a href="https://github.com/CalyZhouLin/MyCode.git" target="_blank">link</a>)
 </details>
 
 <details>
 <summary><strong>Published / Course Projects </strong></summary>
-**PRO:Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference** ([link](https://github.com/CalyZhouLin/MyCode.git))\
+  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+    <div>
+    <strong style="font-size: 1.1em;">PRO: Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference</strong><br>
+    <em>Lin Zhou</em>, 其他作者名字<br>
+    <span style="color: gray;">会议或期刊名称, 2026</span><br>
+    <p style="margin: 8px 0; font-size: 0.95em;">简短的摘要介绍。</p>
+    <a href="https://github.com/CalyZhouLin/MyCode.git" target="_blank">[Code]</a>
+    <a href="#" target="_blank" style="margin-left: 10px;">[PDF]</a>
+    </div>
+  </div>
+
 </details>
 
 <details>
