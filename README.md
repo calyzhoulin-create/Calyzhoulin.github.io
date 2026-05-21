@@ -12,17 +12,29 @@ My research interests primarily include:
 - Image Restoration
 - Computer Vision
 
-
-## Project
+<details>
+<summary><strong>Project </strong></summary>
 **PRO:Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference** ([link](https://github.com/CalyZhouLin/MyCode.git))\
-## Publish
+</details>
 
 
-## Repository Structure
+<details>
+<summary><strong>Under Review / Working Papers </strong></summary>
+**Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference** ([link](paper-link))\
+</details>
+
+<details>
+<summary><strong>Published / Course Projects </strong></summary>
+**PRO:Single-Image-Desnow-Based-on-Multi-domain-Feature-Prior-and-Bayesian-Plug-and-Play-Inference** ([link](https://github.com/CalyZhouLin/MyCode.git))\
+</details>
+
+<details>
+<summary><strong>Repository Structure </strong></summary>
 This repository contains the source code for my GitHub Pages website:
-- `contents/`: Contains the Markdown files for the website content (e.g., Home, Publications, Awards).
-- `static/`: Contains images, CSS, and other static assets used on the website.
-- `config.yml`: Global configuration for the website's title and layout.
+* `contents/` : Contains the Markdown files for the website content (e.g., Home, Publications, Awards).
+* `static/` : Contains images, CSS, and other static assets used on the website.
+* `config.yml` : Global configuration for the website's title and layout.
+</details>
 
 ## License
 The content of my personal information and research is copyrighted by Zhou Lin. The underlying code framework is licensed under the [MIT License](LICENSE).
